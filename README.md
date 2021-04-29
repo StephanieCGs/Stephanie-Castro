@@ -1,5 +1,5 @@
-Hello world!
-I’m Stephanie de Castro Gonçalves, and I'm a tech enthusiast who loves to learn about new things. I'm currently a student of Computer Science.
+🎉 Hello world! 🎉  
+I’m Stephanie de Castro Gonçalves, and I'm a tech enthusiast who loves to learn about new things. I'm currently a student of Computer Science.  
 - Portfolio: https://stephanie-castro.netlify.app/
 
 
